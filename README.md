@@ -11,8 +11,7 @@ pneumonia-detection-using-deep-learning/
 ├── Pneumonia_Detection.ipynb                
 ├── Pneumonia_Detection_Presentation.pptx 
 ├── README.md                                 
-├── requirements.txt                          
-└── dataset/                                  
+├── requirements.txt                                                       
 ```
 
 ---
