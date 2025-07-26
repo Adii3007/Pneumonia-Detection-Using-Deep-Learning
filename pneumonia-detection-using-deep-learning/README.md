@@ -10,9 +10,8 @@ This project is focused on building a CNN-based model using FastAI to automatica
 pneumonia-detection-using-deep-learning/
 ├── Pneumonia_Detection.ipynb                
 ├── Pneumonia_Detection_Presentation.pptx 
-├── README.md                                 
-├── requirements.txt                          
-└── dataset/                                  
+├── README.md                                                          
+└── requirements.txt                                  
 ```
 
 ---
